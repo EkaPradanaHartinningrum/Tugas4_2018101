@@ -9,5 +9,7 @@
     <string name="presiden_7">Bapak Infrastruktur</string>
     <string name="jabatan_7">Jabatan 20 Oktober 2014 sampai Sekarang</string>
     <string name="biografi_7">Nama Jokowi sudah mulai mencuat sejak dirinya menjalankan amanah sebagai Wali Kota Surakarta (Solo) pada 28 Juli 2005 sampai 1 Oktber 2012.</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
 
 </resources>
